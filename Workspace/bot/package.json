@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "commander": "^9.4.0",
+    "discord.js": "^14.0.2",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.10.0",
+    "sylently-handler-test": "^1.0.0"
+  }
+}
